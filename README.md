@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -67,3 +68,7 @@ export default tseslint.config([
   },
 ])
 ```
+=======
+# Recipe-Finder
+A multi-page React application built with React Router DOM and Zustand using the Slice Pattern for scalable state management.
+>>>>>>> e3cba46f76fd4bae5ba15287ae056f3933a5437c
